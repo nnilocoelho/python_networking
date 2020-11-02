@@ -1,4 +1,5 @@
 # python_networking
 
-Scripts com python para ferramentas de trabalho em Redes de Computadores.
+Scripts com python para automação de tarefas.
+
 Estudos aplicados através de tutoriais da internet, blogs e Youtube.
