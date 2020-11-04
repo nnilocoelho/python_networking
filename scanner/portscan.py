@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import socket,sys
 
 for ports in range(1,65535):
